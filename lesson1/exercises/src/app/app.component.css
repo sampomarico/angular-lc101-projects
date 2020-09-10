@@ -6,3 +6,9 @@ hr {
     text-align: center;
     font-size:large;
 }
+
+body {
+    background-color: lightblue;
+    margin: 0px;
+    padding: 0px;
+}
